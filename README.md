@@ -48,4 +48,9 @@ resulting in an increase in the number of parameters.
 2. In-context learning
 3. Few-shot, one-shot and zero-shot learning
 
-## Reference
+
+## References
+1. ***Attention Is All You Need*** [[link](https://arxiv.org/abs/1706.03762)]
+2. ***Improving Language Understanding by Generative Pre-Training*** [[link](https://openai.com/research/language-unsupervised)]
+3. ***Illustrating Reinforcement Learning from Human Feedback (RLHF)*** [[link](https://huggingface.co/blog/rlhf)]
+4. ***Neural machine translation with a Transformer and Keras*** [[link](https://www.tensorflow.org/text/tutorials/transformer)]
